@@ -3,6 +3,8 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Ui
 Bundle-SymbolicName: com.vogella.tasks.ui;singleton:=true
 Bundle-Version: 1.0.0.qualifier
+Import-Package: javax.annotation,
+ javax.inject
 Require-Bundle: org.eclipse.core.runtime,
  org.eclipse.jface,
  org.eclipse.e4.core.di,
