@@ -3,6 +3,13 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Ui
 Bundle-SymbolicName: com.vogella.tasks.ui;singleton:=true
 Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.jface,
+ org.eclipse.e4.core.di,
+ org.eclipse.e4.ui.workbench,
+ org.eclipse.e4.ui.di,
+ org.eclipse.e4.core.di.extensions,
+ org.eclipse.e4.core.contexts
 Bundle-Vendor: VOGELLA
 Automatic-Module-Name: com.vogella.tasks.ui
 Bundle-RequiredExecutionEnvironment: JavaSE-17
