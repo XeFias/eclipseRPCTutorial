@@ -26,7 +26,7 @@ public class TaskConsumer {
 
     @Activate
     public void activate() {
-        System.out.println("Activate called");
-        System.out.println("Number of tasks: " + taskService.getAll().size());
+//        System.out.println("Activate called");
+//        System.out.println("Number of tasks: " + taskService.getAll().size());
     }
 }
