@@ -19,6 +19,12 @@ public class Task {
 		this.done = done;
 		this.dueDate = dueDate;
 	}
+    
+    public Task(long id) {
+		super();
+		this.id = id;
+	}
+    
 	private final long id;
     private String summary = "";
     private String description = "";
