@@ -2,13 +2,12 @@ Eclipse RCP
 https://www.vogella.com/tutorials/eclipse.html
 
 # next
-- [] OSGi Modularity and Services - Tutorial
-	https://www.vogella.com/tutorials/OSGi/article.html
+- [ ] OSGi Modularity and Services - Tutorial
+	- [ ] https://www.vogella.com/tutorials/OSGi/article.html#define-a-service-interface-to-access-tasks
 
 
 
-
-# Aditional
+# Additional
 - [ ] more on Eclipse context and Eclipse dependency injection.
 	https://www.vogella.com/tutorials/Eclipse4ContextUsage/article.html
 	
