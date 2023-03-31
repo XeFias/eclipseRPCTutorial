@@ -3,9 +3,8 @@ https://www.vogella.com/tutorials/eclipse.html
 
 # next
 - [ ] Eclipse platform services - Tutorial
-	- [ ] https://www.vogella.com/tutorials/Eclipse4Services/article.html
-
-
+	- [ ] 5. Part service and editor like behavior
+		https://www.vogella.com/tutorials/Eclipse4Services/article.html#part-service-and-editor-like-behavior
 
 # Additional
 - [ ] Using the event service in Eclipse RCP and OSGi applications
@@ -20,7 +19,12 @@ https://www.vogella.com/tutorials/eclipse.html
 - [ ] Export java RCP applications ??
 	https://www.vogella.com/tutorials/EclipseProductDeployment/article.html
 
-
+- [ ] command line
+	https://stackoverflow.com/questions/3656271/how-to-export-eclipse-rcp-through-command-line
+	http://www.eclipse.org/tycho/
+	https://github.com/jsievers/tycho-demo
+	https://github.com/caniszczyk/minerva
+	
 # LSP
 ## Eclipse LSP4E 
 - [ ] Developing an Eclipse language server integration - Tutorial
