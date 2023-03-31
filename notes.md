@@ -2,8 +2,8 @@ Eclipse RCP
 https://www.vogella.com/tutorials/eclipse.html
 
 # next
-- [ ] OSGi Modularity and Services - Tutorial
-	- [ ] https://www.vogella.com/tutorials/OSGi/article.html#define-a-service-interface-to-access-tasks
+- [ ] Eclipse product and application deployment - Tutorial
+	- [ ] https://www.vogella.com/tutorials/EclipseProductDeployment/article.html#checklist-for-common-export-problems
 
 
 

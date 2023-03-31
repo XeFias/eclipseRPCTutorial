@@ -3,6 +3,7 @@
 
 <product name="to-do" uid="com.vogella.tasks" id="com.vogella.tasks.ui.product" application="org.eclipse.e4.ui.workbench.swt.E4Application" version="0.0.1" useFeatures="true" includeLaunchers="true" autoIncludeRequirements="true">
 
+
    <configIni use="default">
    </configIni>
 
@@ -13,14 +14,20 @@
       </vmArgsMac>
    </launcherArgs>
 
+   <windowImages/>
+
+   <splash
+      location="com.vogella.tasks.feature" />
    <launcher name="Taskman">
       <win useIco="false">
          <bmp/>
       </win>
    </launcher>
 
+
    <vm>
    </vm>
+
 
    <plugins>
    </plugins>
@@ -39,5 +46,12 @@
       <plugin id="org.eclipse.equinox.event" autoStart="true" startLevel="2" />
       <plugin id="org.eclipse.equinox.simpleconfigurator" autoStart="true" startLevel="1" />
    </configurations>
+
+   <preferencesInfo>
+      <targetfile overwrite="false"/>
+   </preferencesInfo>
+
+   <cssInfo>
+   </cssInfo>
 
 </product>
