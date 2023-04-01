@@ -2,13 +2,12 @@ Eclipse RCP
 https://www.vogella.com/tutorials/eclipse.html
 
 # next
-- [ ] Eclipse platform services - Tutorial
-	- [ ] 5. Part service and editor like behavior
-		https://www.vogella.com/tutorials/Eclipse4Services/article.html#part-service-and-editor-like-behavior
+- [x] Eclipse platform services - Tutorial
+	https://www.vogella.com/tutorials/Eclipse4Services/article.html#part-service-and-editor-like-behavior
 
-# Additional
 - [ ] Using the event service in Eclipse RCP and OSGi applications
 	https://www.vogella.com/tutorials/Eclipse4EventSystem/article.html
+	https://github.com/vogellacompany/codeexamples-osgi
 	
 - [ ] Eclipse framework and model events - Tutorial
 	https://www.vogella.com/tutorials/Eclipse4ModelEvents/article.html
@@ -42,6 +41,9 @@ https://www.vogella.com/tutorials/eclipse.html
 - [ ] A Practical Guide for Language Server Protocol	
 	part 1: https://medium.com/@malintha1996/understanding-the-language-server-protocol-5c0ba3ac83d2
 	part 2: https://medium.com/ballerina-techblog/practical-guide-for-the-language-server-protocol-3091a122b750
+
+- [ ] Go To Definition in the Language Server Protocol
+	https://tomassetti.me/go-to-definition-in-the-language-server-protocol/
 
 # Other
 - [ ] more on Eclipse context and Eclipse dependency injection.

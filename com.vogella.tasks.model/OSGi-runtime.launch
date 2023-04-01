@@ -48,10 +48,12 @@
         <setEntry value="org.osgi.util.xml"/>
     </setAttribute>
     <setAttribute key="selected_workspace_bundles">
+        <setEntry value="com.example.swt.widgets"/>
         <setEntry value="com.vogella.contribute.parts"/>
         <setEntry value="com.vogella.osgi.taskconsumer"/>
         <setEntry value="com.vogella.tasks.model"/>
         <setEntry value="com.vogella.tasks.services"/>
+        <setEntry value="com.vogella.tasks.services.tests"/>
         <setEntry value="com.vogella.tasks.ui"/>
     </setAttribute>
     <booleanAttribute key="show_selected_only" value="true"/>
