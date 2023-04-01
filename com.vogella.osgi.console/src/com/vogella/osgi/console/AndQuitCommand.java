@@ -9,7 +9,7 @@ import org.osgi.service.component.annotations.Component;
 public class AndQuitCommand implements CommandProvider {
 
     public AndQuitCommand() {
-        System.out.println("command");
+        System.out.println("construct Command");
     }
     // add prints sum of its two arguments
     public void _add(CommandInterpreter ci) {

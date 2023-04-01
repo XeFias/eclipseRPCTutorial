@@ -1,15 +1,14 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Console
-Bundle-SymbolicName: com.vogella.osgi.console
+Bundle-Name: Eventreceiver
+Bundle-SymbolicName: com.vogella.osgi.eventreceiver
 Bundle-Version: 1.0.0.qualifier
 Import-Package: com.vogella.events,
- org.eclipse.osgi.framework.console;version="1.1.0",
  org.osgi.service.component.annotations;version="1.5.1";resolution:=optional,
  org.osgi.service.event;version="1.4.1"
-Service-Component: OSGI-INF/com.vogella.osgi.console.AndQuitCommand.xml,
- OSGI-INF/com.vogella.osgi.console.EventCommandSender.xml
+Service-Component: OSGI-INF/com.vogella.osgi.eventreceiver.EventReaction.xml,
+ OSGI-INF/com.vogella.osgi.eventreceiver.WildcardEventReceiver.xml
 Bundle-Vendor: VOGELLA
-Automatic-Module-Name: com.vogella.osgi.console
+Automatic-Module-Name: com.vogella.osgi.eventreceiver
 Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-17
