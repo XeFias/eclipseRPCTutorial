@@ -5,7 +5,7 @@ https://www.vogella.com/tutorials/eclipse.html
 - [x] Eclipse platform services - Tutorial
 	https://www.vogella.com/tutorials/Eclipse4Services/article.html#part-service-and-editor-like-behavior
 
-- [ ] Using the event service in Eclipse RCP and OSGi applications
+- [x] Using the event service in Eclipse RCP and OSGi applications
 	https://www.vogella.com/tutorials/Eclipse4EventSystem/article.html
 	https://github.com/vogellacompany/codeexamples-osgi
 	

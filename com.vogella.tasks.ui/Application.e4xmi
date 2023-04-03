@@ -40,4 +40,5 @@
   <addons xmi:id="_Ed8ddc4AEe2nqrLG3E0UWQ" elementId="org.eclipse.e4.ui.workbench.contexts.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.ContextProcessingAddon"/>
   <addons xmi:id="_Ed8dds4AEe2nqrLG3E0UWQ" elementId="org.eclipse.e4.ui.workbench.bindings.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.swt/org.eclipse.e4.ui.workbench.swt.util.BindingProcessingAddon"/>
   <addons xmi:id="_Ed8dd84AEe2nqrLG3E0UWQ" elementId="org.eclipse.e4.ui.workbench.handler.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
+  <addons xmi:id="_ITWFwNHyEe27JZhqRxOYLA" elementId="com.vogella.tasks.ui.addon.perspectiveswitch" contributionURI="bundleclass://com.vogella.tasks.ui/com.vogella.tasks.ui.addon.PerspectiveSwitchAddon"/>
 </application:Application>
