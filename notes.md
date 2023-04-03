@@ -9,7 +9,7 @@ https://www.vogella.com/tutorials/eclipse.html
 	https://www.vogella.com/tutorials/Eclipse4EventSystem/article.html
 	https://github.com/vogellacompany/codeexamples-osgi
 	
-- [ ] Eclipse framework and model events - Tutorial
+- [x] Eclipse framework and model events - Tutorial
 	https://www.vogella.com/tutorials/Eclipse4ModelEvents/article.html
 
 - [ ] Testing Eclipse Plug-in and RCP components
